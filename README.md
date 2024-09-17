@@ -15,7 +15,7 @@ The project visualizes random data using `matplotlib.pyplot`'s subplots function
 - Main title for the entire figure.
 
 ## Screenshot
-[Image](https://github.com/user-attachments/assets/9b7837d3-b5de-444d-896b-e4533769331c)
+![Screenshot of Subplots](https://github.com/user-attachments/assets/9b7837d3-b5de-444d-896b-e4533769331c)
 
 
 ## Requirements
