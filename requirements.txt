@@ -1,0 +1,1 @@
+requirements.txt: Lists Python libraries required to run the project (matplotlib and numpy).
