@@ -30,4 +30,4 @@ The project visualizes random data using `matplotlib.pyplot`'s subplots function
    ```bash
    git clone https://github.com/yourusername/matplotlib-subplots-demo.git
    cd matplotlib-subplots-demo
-pip install -r requirements.txt
+
